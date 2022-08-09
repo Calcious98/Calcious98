@@ -11,8 +11,8 @@
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-![language graph](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
+![language graph](https://github-readme-stats.vercel.app/api/top-langs/?username={Calcious98})
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal)
+![activity graph](https://activity-graph.herokuapp.com/graph?username={Calcious98}&theme=minimal)
 
-![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
+![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Calcious98}&theme=vue)
